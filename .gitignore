@@ -7,3 +7,18 @@ CampusRide/config.ini
 
 # Windows system files
 desktop.ini
+
+# Local database credentials
+CampusRide/config.ini
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment files
+.env
+.env.*
