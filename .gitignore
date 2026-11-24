@@ -1,0 +1,9 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Database credentials
+CampusRide/config.ini
+
+# Windows system files
+desktop.ini
